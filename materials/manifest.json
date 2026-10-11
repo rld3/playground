@@ -1,0 +1,16 @@
+[
+  {
+    "file": "paypal-q2-2026-release.txt",
+    "source": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm",
+    "retrieved": "2026-10-11",
+    "sha256": "01b8d35782c30a5c35d12e1e6105e3efc93c47f8fc637a32f365ab887e39fc02",
+    "format": "Whitespace-normalized text extracted from SEC-hosted HTML; original tables flattened. Consult original for layout."
+  },
+  {
+    "file": "paypal-q2-2026-10q.txt",
+    "source": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+    "retrieved": "2026-10-11",
+    "sha256": "7f678d68eef6e094108e8145b890cb5d6eecef1a342f93ef440ecbfdf71e5d3f",
+    "format": "Whitespace-normalized text extracted from SEC-hosted HTML; original tables flattened. Consult original for layout."
+  }
+]
